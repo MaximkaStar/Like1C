@@ -1,0 +1,6 @@
+c:\users\стасися\source\repos\Like1C\Like1C\obj\Debug\Like1C.csprojResolveAssemblyReference.cache
+c:\users\стасися\source\repos\Like1C\Like1C\obj\Debug\AddSubject.g.cs
+c:\users\стасися\source\repos\Like1C\Like1C\obj\Debug\MainWindow.g.cs
+c:\users\стасися\source\repos\Like1C\Like1C\obj\Debug\App.g.cs
+c:\users\стасися\source\repos\Like1C\Like1C\obj\Debug\Like1C_MarkupCompile.cache
+c:\users\стасися\source\repos\Like1C\Like1C\obj\Debug\Like1C_MarkupCompile.lref

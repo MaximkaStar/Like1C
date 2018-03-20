@@ -1,0 +1,18 @@
+﻿<Window x:Class="Like1C.AddSubject"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Like1C"
+        mc:Ignorable="d"
+        Title="AddSubject" Height="450" Width="800">
+    <Grid Margin="0,0,534,200">
+        <TextBox Name="TextItem" HorizontalAlignment="Left" Height="23" Margin="128,51,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="120" RenderTransformOrigin="0.491,-0.737"/>
+        <TextBlock HorizontalAlignment="Left" Margin="47,97,0,0" TextWrapping="Wrap" Text="Count" VerticalAlignment="Top" RenderTransformOrigin="-11.081,-3.133"/>
+        <TextBlock HorizontalAlignment="Left" Margin="10,149,0,0" TextWrapping="Wrap" Text="TypeOfOperation" VerticalAlignment="Top" RenderTransformOrigin="0.533,4.465"/>
+        <ComboBox Name="BoxItem" HorizontalAlignment="Left" Margin="128,149,0,0" VerticalAlignment="Top" Width="120" Height="16"/>
+        <TextBlock HorizontalAlignment="Left" Margin="10,51,0,0" TextWrapping="Wrap" Text="NameOfSubject" VerticalAlignment="Top" RenderTransformOrigin="0.614,-2.254"/>
+        <TextBox Name="CountItem" HorizontalAlignment="Left" Height="23" Margin="128,97,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="120"/>
+        <Button Name="SaveButton" Content="Save" HorizontalAlignment="Left" Margin="172,186,0,0" VerticalAlignment="Top" Width="75" Height="23" Click="ButtonClick"/>
+    </Grid>
+</Window>
